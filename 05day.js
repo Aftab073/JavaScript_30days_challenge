@@ -113,4 +113,4 @@ function find(fun1, fun2, value) {
     return result;
 }
 
-console.log(find_10_percent(fun1, fun2, 2000));
+console.log(find(fun1, fun2, 700));
