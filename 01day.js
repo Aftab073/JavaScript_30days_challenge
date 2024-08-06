@@ -48,3 +48,4 @@ console.log(unChanged);  // Output: 300
 
 unChanged = 57;  // Error: Assignment to constant variable
 console.log(unChanged);
+
